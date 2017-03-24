@@ -1,0 +1,40 @@
+Best Web Fonts:
+
+
+1.
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+font-family: 'Open Sans', sans-serif;
+
+
+2.
+<link href="https://fonts.googleapis.com/css?family=Vollkorn" rel="stylesheet">
+
+font-family: 'Vollkorn', serif;
+
+3.
+
+<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+
+font-family: 'Ubuntu', sans-serif;
+
+4.
+
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+
+font-family: 'Josefin Sans', sans-serif;
+
+5.
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+font-family: 'Roboto', sans-serif;
+
+6.
+<link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
+
+font-family: 'Bree Serif', serif;
+
+
+All five  in one Link:
+
+
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Open+Sans|Roboto|Ubuntu|Vollkorn|Bree+Serif" rel="stylesheet">
